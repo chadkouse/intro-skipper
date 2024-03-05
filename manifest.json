@@ -9,7 +9,7 @@
         "imageUrl": "https://raw.githubusercontent.com/chadkouse/intro-skipper/master/images/logo.png",
         "versions": [
             {
-                "version": "0.1.16-1",
+                "version": "0.1.16.1",
                 "changelog": "- See the full changelog at [GitHub](https://github.com/chadkouse/intro-skipper/blob/master/CHANGELOG.md)\n",
                 "targetAbi": "10.8.4.0",
                 "sourceUrl": "https://github.com/chadkouse/intro-skipper/releases/download/v0.1.16-1/intro-skipper-v0.1.16-1.zip",
